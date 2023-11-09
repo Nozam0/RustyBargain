@@ -7,7 +7,7 @@ Generar un modelo de predicción del target "Price", buscando la mejor velocidad
 
 # Descripción de los datos
 
-# Características
+*Características*
     DateCrawled — fecha en la que se descargó el perfil de la base de datos
     VehicleType — tipo de carrocería del vehículo
     RegistrationYear — año de matriculación del vehículo
@@ -23,6 +23,6 @@ Generar un modelo de predicción del target "Price", buscando la mejor velocidad
     NumberOfPictures — número de fotos del vehículo
     PostalCode — código postal del propietario del perfil (usuario)
     LastSeen — fecha de la última vez que el usuario estuvo activo
-    
-# Target
-    Price — precio (en euros)
+
+*Target*
+    Price — precio (en euros).
